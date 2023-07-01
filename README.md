@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Crime detection using Deep Learning and Machine Learning**
 
-- 🤝 I’m looking for help with **A real time POWER BI dashboard**
+- 🤝 I’m looking for help with **Determine the data sources that will provide the real-time data for your dashboard.**
 
 - 📝 I regularly write articles on [Data science](Data science)
 
